@@ -1,1 +1,37 @@
-Teste de Anotações
+1º Passo Baixar e instalar o Git na Maquina
+
+Link: https://git-scm.com/
+
+2º Passo Criar uma conta no Github
+
+Link: https://github.com/
+
+Criando Novo Repositório
+*Abrir Site do Github
+*Criar novo repositório
+*Dar um Nome ao seu repositório
+*Inserir descrições ao seu repositório
+*Tornar Público
+*Adiconar um Arquivo README
+
+Importar para a maquina
+*Clicar na aba Code
+*Escolher a Forma de Clonagem (HTTPS, SSH ou CLI do Github)
+*Clicar em Copiar
+*Criar uma pasta na Maquina onde salvará seu repositório
+*com o botão direito do Mouse clicar em GitBash dentro da pasta que criou para salvar o repositório
+*Digitar "Git Clone" e colar o link de clonagem copiado, logo em seguida o codigo começará a ser copiado para a sua maquina.
+
+Organização dos arquivos
+*Na pasta qual crio encontrará o arquivo importado, acessar.
+*Dentro da mesma criado a pastas de anotações e arquivos do repositório.
+*Organizar ao seu modo.
+
+Exportar para Github
+*Dentro do repositório na maquina abrir novamente o git bash
+*Executar o "Git Status"
+*Executar o "Git Add ."
+*Executar o "Git commit -m "Inserir comentários" Isso é muito importante
+*Executar o "git push origin main
+
+Pronto seu Repositório está criado, alterado e atualizado no Github.
